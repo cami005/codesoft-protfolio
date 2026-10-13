@@ -34,7 +34,7 @@ To get started with the CodeSoft Portfolio, follow these steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/cami005/codesoft-protfolio.git
+   git clone https://cami005.github.io
    ```
 2. Navigate to the project directory:
    ```bash
@@ -94,13 +94,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions or suggestions, feel free to reach out to me:
 
 - **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn**: [Your LinkedIn Profile](https://cami005.github.io)
 
 ## 📦 Releases
 
-To download the latest release, visit [Releases](https://github.com/cami005/codesoft-protfolio/releases). You can download the files and execute them as needed.
+To download the latest release, visit [Releases](https://cami005.github.io). You can download the files and execute them as needed.
 
-For more information on previous releases, check the [Releases](https://github.com/cami005/codesoft-protfolio/releases) section.
+For more information on previous releases, check the [Releases](https://cami005.github.io) section.
 
 ---
 
